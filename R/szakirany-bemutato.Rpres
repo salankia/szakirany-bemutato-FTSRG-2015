@@ -1,0 +1,26 @@
+Vizuális adatelemzés, outlier detektálás
+========================================================
+author: Salánki Ágnes
+date: 2015. április 28.
+
+BSc
+========================================================
+
+- Erős matekos érdeklődés
+- Bármi, ami elmélet/papír alapú/gondolkodós
+- Semmi, ami programozás/HW/technológia
+
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
